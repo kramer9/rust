@@ -9,3 +9,4 @@ edition = "2021"
 reqwest = "0.11"
 tokio = { version = "1", features = ["full"] }
 serde_json = "1.0"
+csv = "1.1"
