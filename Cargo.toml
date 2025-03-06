@@ -1,6 +1,5 @@
 [workspace]
 members = [
-    "apitest",
-    "hello_world",
-    "hellow_world2"
+    "apitest", 
+    "bitwarden"
 ]
